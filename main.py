@@ -1,6 +1,7 @@
 #CIS-117 Lab4
+#The function countriesInRegion takes the input_file of country_full.csv and first opens and reads the file, then splits it up based on the countries name and region. Then the code outputs the region files as csv files with the regions names attached.
 #Tai Vutam 
-
+#No partner
 
 import csv
 
